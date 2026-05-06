@@ -5,9 +5,12 @@
   ---
   
   ## 📚Disciplinas Cursadas:
-  -Lógica de Programação e Algoritmo;
+  -Lógica de Programação e Algoritmo
+  
   -Arquitetura de Redes com IoT;
+  
   -Sistemas Operacionais;
+  
   -Levantamento de Requisitos.
 
 
@@ -15,11 +18,14 @@
 
   ## 💻Linguagens Estudadas:
   - Python
+    
   - C++
 
     ---
 
     ## 💫Meu sonho é:
     - ✈️Conhecer muitos países;
+      
     - 🩺Me formar;
+      
     - 👨‍👩‍👧‍👦Construir uma família. 
