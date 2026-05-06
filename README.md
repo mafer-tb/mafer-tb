@@ -1,16 +1,25 @@
-## Hi there 👋
+## Olá, meu nome é Maria Fernanda!
 
-<!--
-**mafer-tb/mafer-tb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👩‍💻 Atualmente sou estudante do Curso Técnico em Desenvolvimento de Sistemas no SENAI
 
-Here are some ideas to get you started:
+  ---
+  
+  ## 📚Disciplinas Cursadas:
+  -Lógica de Programação e Algoritmo;
+  -Arquitetura de Redes com IoT;
+  -Sistemas Operacionais;
+  -Levantamento de Requisitos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  ---
+
+  ## 💻Linguagens Estudadas:
+  - Python
+  - C++
+
+    ---
+
+    ## 💫Meu sonho é:
+    - ✈️Conhecer muitos países;
+    - 🩺Me formar;
+    - 👨‍👩‍👧‍👦Construir uma família. 
